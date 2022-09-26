@@ -1,4 +1,4 @@
-# The_Homeless_Dragon
+# The_Homeless_Dragon (December 2021)
 English language:
 Additional task in computer science: "Homeless Dragon"
 is given an arbitrary two-dimensional array. In the array, some conventional symbol indicates land areas. The land plots connected vertically or horizontally are islands. The land plots connected diagonally are separate islands. This is our map. The method of setting the array is not essential.
